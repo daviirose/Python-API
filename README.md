@@ -1,2 +1,2 @@
 # Python-API
-Testing my Python knowledge by buidlign a simple API
+Testing my Python knowledge by building a simple API
